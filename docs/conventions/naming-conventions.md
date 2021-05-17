@@ -3,7 +3,7 @@
 ## sAMAccountName
 
 **Konvention**  
-- [v]orname[n]achname[jahr(YY)][letter(1)][number(3)]  
+- [**v**]orname[**n**]achname[jahr(**YY**)][**letter(1)**][**number(3)**]  
 
 **Alternativen**  
 \--
@@ -35,14 +35,16 @@ Keine Änderung zur IST-Situation
 ## E-Mail Adresse
 
 **Konvention**  
-- vorname.nachname[2-x]@unibe.ch  
+- vorname.nachname[**2-x**]@unibe.ch  
 
 **Alternativen**  
-- vorname[kurzform].nachname@unibe.ch  
-- vorname.[z]weitname.nachname@unibe.ch  
+- vorname[**kurzform**].nachname@unibe.ch  
+- vorname.[**z**]weitname.nachname@unibe.ch  
 
 **Beispiele**  
 - petra.muster@unibe.ch  
+- petra.muster2@unibe.ch  
+- petra.muster3@unibe.ch  
 - petra.j.muster@unibe.ch  
 - petra.ja.muster@unibe.ch  
 - petra.jane.muster@unibe.ch  
@@ -51,12 +53,13 @@ Keine Änderung zur IST-Situation
 Inkrementieren bei Duplikat  
 Eine Kurzform muss sich vom echten Vornamen ableiten (Michael -> Mike, Anasuya-> Suya, etc.)
 
+
 ---
 
 ## Institutsadresse / Verteileradresse
 
 **Konvention**  
-- [institut]@unibe.ch
+- [**institut**]@unibe.ch
 
 **Alternativen**  
 \--
@@ -72,7 +75,7 @@ Institutsadressen sind bewilligungspflichtig
 ## Unpersönliche Mailbox / Verteilerliste
 
 **Konvention**  
-- name.[Institut]@unibe.ch  
+- name.[**institut**]@unibe.ch  
 
 **Alternativen**  
 \--
