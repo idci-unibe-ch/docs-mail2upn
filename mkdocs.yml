@@ -7,6 +7,8 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)"
       scheme: default
+      primary: pink
+      accent: cyan
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
@@ -47,10 +49,16 @@ markdown_extensions:
       custom_checkbox: true
   - attr_list
 
+plugins:
+  - search
+  - table-reader
+
 nav:
   - Home: index.md
   - Konventionen:
     - Namenskonventionen: conventions/naming-conventions.md
+  - Daten:
+    - Migrationsdaten: dates/migration-dates.md
   #   - OneIM-API: linking/oneim-api.md
   # - Service Providers:
   #   - Anmeldeprozess: service-provider/login-process.md
