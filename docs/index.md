@@ -16,6 +16,3 @@ Diese Dokumentation richtet sich an IT-Verantwortliche der Universität Bern.
     * [x] Zentrale Systeme vorbereitet
     * [x] Pilotmigration durchgeführt: ID
     * [ ] ...
-
-!!! note
-    Die technische Dokumentation befindet sich im Aufbau.
