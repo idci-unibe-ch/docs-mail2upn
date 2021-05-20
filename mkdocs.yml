@@ -19,6 +19,10 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to light mode
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.top
 extra_css:
  - 'stylesheets/unibe.css'
 use_directory_urls: false
@@ -55,10 +59,14 @@ plugins:
 
 nav:
   - Home: index.md
-  - Konventionen:
-    - Namenskonventionen: conventions/naming-conventions.md
-  - Daten:
-    - Migrationsdaten: dates/migration-dates.md
+  - Namenskonventionen: conventions/naming-conventions.md
+  - Migration:
+    - Migrationsdaten: migration/migration-dates.md
+    - Migrationsablauf: migration/migration-procedure.md
+    - Kommunikation: migration/migration-communication.md
+    - Checkliste IT-Staff: migration/migration-checklist-itstaff.md
+  - Anleitungen:
+    - Anmeldetypen: tutorials/tutorials-logins.md
   #   - OneIM-API: linking/oneim-api.md
   # - Service Providers:
   #   - Anmeldeprozess: service-provider/login-process.md
