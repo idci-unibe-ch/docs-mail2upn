@@ -35,7 +35,7 @@ Für die Migration sind folgende Begriffe für Sie und bei der Kommunikation mit
 | Mailclient                                         	| UPN                           | Legacy UPN                  |
 | Netadmin                                           	| sAMAccountName                | sAMAccountName              |
 | Office 365, Teams, OneDrive                        	| UPN                           | Legacy UPN                  |
-| Plagscan                                           	| UPN                           | UPN                         |
+| Plagscan                                           	| UPN                           | Legacy UPN                  |
 | Selfservice Studierende                            	| SWITCH edu-ID                 | SWITCH edu-ID               |
 | SLSP, Swiss Library Service Platform (swisscovery) 	| SWITCH edu-ID                 | SWITCH edu-ID               |
 | Serviceportal                                      	| UPN                           | Legacy UPN                  |
@@ -46,6 +46,9 @@ Für die Migration sind folgende Begriffe für Sie und bei der Kommunikation mit
 | Unisport                                           	| SWITCH edu-ID                 | SWITCH edu-ID               |
 | VPN (Fortinet)                                      	| UPN                           | Legacy UPN                  |
 | Webmail                                            	| UPN                           | Legacy UPN                  |
+| Zeiterfassung (Bridge4ERP) via "Login"               	| campus\sAMAccountName         | campus\sAMAccountName       |
+| Zeiterfassung (Bridge4ERP) via "Windows Login"       	| UPN                           | Legacy UPN                  |
+| ZMS (CMS)                                            	| sAMAccountName                | sAMAccountName              |
 | zoom                                               	| UPN                           | Legacy UPN                  |
 
 
