@@ -30,7 +30,9 @@ Auch beim Studitracker sind manuelle Anpassungen notwendig. Wir müssten somit a
 **Zoom**  
 Auch Zoom erstellt bei einer UPN Änderung einen neuen Account und hat keine Migrationsmechanismen.  
 
-Falls Sie Termine und Einladungen über Zoom machen sind diese nach der Umstellung nicht mehr verfügbar, wenn sie nicht in den lokalen Exchange Kalender übernommen wurden. Wir haben mittlerweile ein Migrationsscript müssen aber wissen, ob Sie Zoom nutzen und wir es ausführen müssen.
+!!! warning
+   Zoom Termine, welche nach dem Migrationsdatum erstellt werden, gehen bei der Migration verloren.
+   Bitte beachten Sie dazu die [Hinweise des Zoom-Teams](https://edit.cms.unibe.ch/unibe/portal/content/studium/werkzeuge_und_arbeitshilfen/fuer_lehrende/e_kollaboration/sich_online_treffen/zoom_meetings/index_ger.html#e1052294).
 
 ## Nach der Migration
 
