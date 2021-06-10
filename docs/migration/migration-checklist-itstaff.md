@@ -8,9 +8,9 @@
 - [x] Bestätigen Sie uns den Migrationstermin
 - [x] Melden Sie uns, welche der nachfolgenden Applikationen für welche Accounts Probleme verursachen könnten
 
-**eForms** *(Ab sofort keine Meldung mehr notwendig)* 
+**eForms** *(Ab sofort keine Meldung mehr notwendig)*  
 In eForms wird bei der Migration ein neuer Benutzer erstellt.  
-Die bedeutet, dass während eines kurzen Zeitraums keine Vorgänge in der eForms-Eingangsbox zu sehen sind.  
+Dies bedeutet, dass während eines kurzen Zeitraums keine Vorgänge in der eForms-Eingangsbox zu sehen sind.  
 
 Das eForms-Teams wird am Migrationstag Skripte laufen lassen, in welchen die Vorgänge dem neuen UPN zugewiesen werden.  
 In diesen Skripts werden auch allfällige Stellvertretungen neu gesetzt.  
@@ -31,20 +31,21 @@ Auch beim Studitracker sind manuelle Anpassungen notwendig. Wir müssten somit a
 **Zoom**  
 Auch Zoom erstellt bei einer UPN Änderung einen neuen Account und hat keine automatisierten Migrationsmechanismen.  
 
-Allgemein
+Allgemein  
 Bitte beachten Sie die [Hinweise des Zoom-Teams](https://edit.cms.unibe.ch/unibe/portal/content/studium/werkzeuge_und_arbeitshilfen/fuer_lehrende/e_kollaboration/sich_online_treffen/zoom_meetings/index_ger.html#e1052294).
 
 Termine / Meeting IDs  
 Zoom Termine, welche nach dem Migrationsdatum erstellt werden, gehen bei der Migration verloren.  
-Ebenso gehen persönliche Meeting-IDs verloren.
-Informieren Sie daher die Nutzenden dahingehend, bis zum Abschluss der Migration keine Migrationstermine nach dem Migrationsdatum einzutragen.  
+Ebenso gehen persönliche Meeting-IDs verloren.  
+Informieren Sie daher die Nutzenden dahingehend, bis zum Abschluss der Migration keine Termine nach dem Migrationsdatum einzutragen.  
 
 Meeting Co-Host  
 Wenn eine zu migrierende Person als Co-Host für ein Meeting eingetragen wurde, gehen diese Informationen bei der Migration verloren bzw. zeigen auf den nicht mehr gültigen Account.  
 Nutzende in einer Co-Host Rolle sollten sich daher nach der Migration an Zoom anmelden und den eigentlichen Host des Meetings informieren damit diese/r den neuen Account als Co-Host erfassen kann.  
 
 Aufnahmen  
-Etwaige Aufnahmen gehen bei der Migration verloren. Informieren Sie daher die Nutzenden rechtzeitig, damit die Aufnahmen heruntergeladen werden, sofern sie noch benötigt werden.
+Etwaige Aufnahmen gehen bei der Migration verloren.  
+Informieren Sie daher die Nutzenden rechtzeitig, damit diese Ihre Aufnahmen herunterladen können, sofern sie noch benötigt werden.
 
 Support  
 Nutzende welche weitere Fragen haben oder nach der Mail2UPN zwingend eine manuelle Zoom-Migration benötigen, können sich direkt an die zuständige Stelle wenden (zoom@unibe.ch).
