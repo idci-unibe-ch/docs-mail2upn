@@ -45,7 +45,7 @@ Nutzende in einer Co-Host Rolle sollten sich daher nach der Migration an Zoom an
 
 Aufnahmen  
 Etwaige Aufnahmen gehen bei der Migration verloren.  
-Informieren Sie daher die Nutzenden rechtzeitig, damit diese Ihre Aufnahmen herunterladen können, sofern sie noch benötigt werden.
+Informieren Sie daher die Nutzenden rechtzeitig, damit diese ihre Aufnahmen herunterladen können, sofern sie noch benötigt werden.
 
 Support  
 Nutzende welche weitere Fragen haben oder nach der Mail2UPN zwingend eine manuelle Zoom-Migration benötigen, können sich direkt an die zuständige Stelle wenden (zoom@unibe.ch).
