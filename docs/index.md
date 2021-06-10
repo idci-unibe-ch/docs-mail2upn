@@ -5,6 +5,7 @@ Diese Dokumentation richtet sich an IT-Verantwortliche der Universität Bern.
 ## Updates
 
 - TODO: Anleitungen für Adobe Cloud, Zoom, M365, etc.
+- 10.06.2021, mpf: Migrationscheckliste bzgl. Zoom und eForms angepasst.
 - 20.05.2021, mpf: Anmeldeübersicht, Dokumente und Checklisten aufgeschaltet.
 - 19.05.2021, mpf: Migrationsdaten aufgeschaltet.
 
