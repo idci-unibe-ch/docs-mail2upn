@@ -28,27 +28,9 @@ Die FIN trägt manuell die Mailadressen von DesktopWeb Nutzern ein. Falls Sie al
 **Studitracker**  
 Auch beim Studitracker sind manuelle Anpassungen notwendig. Wir müssten somit auch hier wissen, falls eine der zu migrierenden Personen das System nutzt.
 
-**Zoom**  
-Auch Zoom erstellt bei einer UPN Änderung einen neuen Account und hat keine automatisierten Migrationsmechanismen.  
-
-Allgemein  
-Bitte beachten Sie die [Hinweise des Zoom-Teams](https://edit.cms.unibe.ch/unibe/portal/content/studium/werkzeuge_und_arbeitshilfen/fuer_lehrende/e_kollaboration/sich_online_treffen/zoom_meetings/index_ger.html#e1052294).
-
-Termine / Meeting IDs  
-Zoom Termine, welche nach dem Migrationsdatum erstellt werden, gehen bei der Migration verloren.  
-Ebenso gehen persönliche Meeting-IDs verloren.  
-Informieren Sie daher die Nutzenden dahingehend, bis zum Abschluss der Migration keine Termine nach dem Migrationsdatum einzutragen.  
-
-Meeting Co-Host  
-Wenn eine zu migrierende Person als Co-Host für ein Meeting eingetragen wurde, gehen diese Informationen bei der Migration verloren bzw. zeigen auf den nicht mehr gültigen Account.  
-Nutzende in einer Co-Host Rolle sollten sich daher nach der Migration an Zoom anmelden und den eigentlichen Host des Meetings informieren damit diese/r den neuen Account als Co-Host erfassen kann.  
-
-Aufnahmen  
-Etwaige Aufnahmen gehen bei der Migration verloren.  
-Informieren Sie daher die Nutzenden rechtzeitig, damit diese ihre Aufnahmen herunterladen können, sofern sie noch benötigt werden.
-
-Support  
-Nutzende welche weitere Fragen haben oder nach der Mail2UPN zwingend eine manuelle Zoom-Migration benötigen, können sich direkt an die zuständige Stelle wenden (zoom@unibe.ch).
+**Zoom** *(Für die Hauptmigration keine Meldung mehr notwendig)*  
+Zoom wird von uns ab sofort bei der Mail2UPN Hauptmigration mitmigriert.  
+Für die Vormigration sind wir Ihnen weiterhin dankbar wenn Sie uns mitteilen, welche Accounts Zoom nutzen, da wir die Migration noch von Hand machen.
 
 ## Nach der Migration
 
