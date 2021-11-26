@@ -10,7 +10,7 @@ Der ServiceDesk macht dabei um **15:30** die Anpassungen im HR wodurch diese **a
 Die restlichen Nutzenden eines Instituts werden immer von **Dienstag bis Donnerstag um 13:30** umgestellt.
 
 !!! warning
-    Institute welche das HIN-Gateway nutzen können erst ab August 2021 migriert werden.
+    Institute welche das HIN-Gateway nutzen können derzeit noch nicht migriert werden.
 
 ## Kontaktaufnahme
 

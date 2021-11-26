@@ -24,8 +24,10 @@ Für die Migration sind folgende Begriffe für Sie und bei der Kommunikation mit
 
 | Dienstleistung                                     	| Anmeldung mit Mail2UPN        | Anmeldung bisher            |
 |----------------------------------------------------	|-------------------------------|-----------------------------|
+| Adobe Cloud                                          	| UPN                           | Legacy UPN                  |
 | Boris                                              	| SWITCH edu-ID                 | SWITCH edu-ID               |
 | CampusCloud (Filr)                                 	| sAMAccountName                | sAMAccountName              |
+| DesktopWeb (Inova)                                   	| UPN                           | Legacy UPN                  |
 | eduroam WLAN[^1]                                    	| sAMAccountName@unibe.ch[^1]   | sAMAccountName@unibe.ch     |
 | eForms                                             	| UPN                           | Legacy UPN                  |
 | ILIAS                                              	| SWITCH edu-ID                 | SWITCH edu-ID               |
