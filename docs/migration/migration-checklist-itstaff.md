@@ -8,7 +8,7 @@
 - [x] Bestätigen Sie uns den Migrationstermin
 - [x] Melden Sie uns, welche der nachfolgenden Applikationen für welche Accounts Probleme verursachen könnten
 
-**eForms** *(Ab sofort keine Meldung mehr notwendig)*  
+**eForms** *(Keine Meldung mehr notwendig)*  
 In eForms wird bei der Migration ein neuer Benutzer erstellt.  
 Dies bedeutet, dass während eines kurzen Zeitraums keine Vorgänge in der eForms-Eingangsbox zu sehen sind.  
 
@@ -22,13 +22,13 @@ Falls Sie nur die Lizenzierung der Programme damit machen ist dies kein Problem,
 Falls Sie jedoch Daten oder Einstellungen in der Adobe Cloud speichern melden Sie uns das unbedingt. Wir können von unserer Seite her nichts machen aber jemand aus dem Team hat eine Anleitung für Nutzende geschrieben, was man vorgängig machen muss.  
 Falls man diese Vorarbeiten nicht macht, sind die Daten und Einstellungen verloren und können durch uns nicht wiederhergestellt werden!
 
-**Finanzsysteme**  
-Die FIN trägt manuell die Mailadressen von DesktopWeb Nutzern ein. Falls Sie also Finanzsysteme nutzen, melden Sie uns dies bitte.
+**Finanzsysteme** *(Meldungen nur noch für Vormigrationen notwendig)* 
+Die FIN trägt manuell die Mailadressen von DesktopWeb Nutzern ein.
 
-**Studitracker**  
+**Studitracker** *(Meldungen nur noch für Vormigrationen notwendig)*
 Auch beim Studitracker sind manuelle Anpassungen notwendig. Wir müssten somit auch hier wissen, falls eine der zu migrierenden Personen das System nutzt.
 
-**Zoom** *(Für die Hauptmigration keine Meldung mehr notwendig)*  
+**Zoom**  *(Meldungen nur noch für Vormigrationen notwendig)* 
 Zoom wird von uns ab sofort bei der Mail2UPN Hauptmigration mitmigriert.  
 Für die Vormigration sind wir Ihnen weiterhin dankbar wenn Sie uns mitteilen, welche Accounts Zoom nutzen, da wir die Migration noch von Hand machen.
 
