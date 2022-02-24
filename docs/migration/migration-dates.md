@@ -1,4 +1,6 @@
-# Übersicht der Migrationsfenster
+# Bestätigte Migrationsfenster
 
-Es sind keine freien Migrationsfenster mehr für 2021 verfügbar.  
-Neue Termine folgen im Januar 2022.
+- 22.03.2022 (Anmeldung bis zum 25.02.2022)
+- 07.06.2022 (Anmeldung bis zum 13.05.2022)
+
+*Weitere Migrationsfenster folgen in Kürze.*

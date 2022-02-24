@@ -2,15 +2,12 @@
 
 Bei Organisationseinheiten werden immer erst die IT-Technikverantwortlichen migriert (= IT-Staff). Bei Bedarf können einige Testpersonen (max. 5) mitmigriert werden.  
 
-Diese Migrationen werden immer **von Dienstag bis Donnerstag** durchgeführt.  
+Diese Vormigrationen werden immer **von Dienstag bis Donnerstag** durchgeführt.  
 
-Der ServiceDesk macht dabei um **15:30** die Anpassungen im HR wodurch diese **automatisch um 18:15 vom IAM in das Active Directory provisioniert** werden.  
+Der ServiceDesk macht dabei die Anpassungen im HR wodurch diese automatisch vom IAM in das Active Directory, Azure Active Directory, zu Zoom, Adobe und der edu-ID provisioniert werden.  
 Über Nacht gleichen sich dann die meisten Systeme der UniBE damit ab, so dass die Migration am nächsten Morgen um 08:00 als abgeschlossen angesehen werden kann.  
 
-Die restlichen Nutzenden eines Instituts werden immer von **Dienstag bis Donnerstag um 13:30** umgestellt.
-
-!!! warning
-    Institute welche das HIN-Gateway nutzen können derzeit noch nicht migriert werden.
+Die restlichen Nutzenden eines Instituts werden immer am definierten Migrationsdatum **ab 13:30** umgestellt.
 
 ## Kontaktaufnahme
 
@@ -42,19 +39,19 @@ Sind die Tests abgeschlossen und Sie bereit für die Migration melden Sie sich w
 Wir legen dann einen passenden Migrationstermin zusammen mit Ihnen fest und stellen Ihnen eine Migrationsliste zur Verfügung, welcher Sie die Account-Anpassungen für Ihre Mitarbeitenden entnehmen können.  
 
 Dies ist gleichzeitig die letzte Möglichkeit für Korrekturen oder Anpassungen der E-Mail Adresse / UPN.  
-Wir empfehlen bspw. mit Personen Kontakt aufzunehmen, welche eine Nummerierung erhalten (vorname.nachname2@unibe.ch) und mit Ihnen die Möglichkeiten [gemäss den Namenskonventionen](../conventions/naming-conventions.md) zu besprechen.
+Wir empfehlen dringend mit Personen Kontakt aufzunehmen, welche Mehrfachanstellungen haben oder eine Nummerierung erhalten (vorname.nachname2@unibe.ch) und mit Ihnen die Möglichkeiten [gemäss den Namenskonventionen](../conventions/naming-conventions.md) zu besprechen.
 
 Da wir die UPNs nicht reservieren können sollten ist es von Vorteil, wenn zwischen dem Ausstellen der Liste und der Migration nicht zuviel Zeit liegt.  
-Wir müssen zudem eine Woche vor der Migration die Liste an die diversen Dienstleistungsverantwortlichen weiterleiten.  
+Wir müssen zudem zwei Wochen vor der Migration die Liste an die diversen Dienstleistungsverantwortlichen weiterleiten.  
 Ab diesem Zeitpunkt sind keine Anpassungen mehr möglich.
 
 
 ## Durchführung der Migration
 
-Zum definierten Datum werden wir ab 13:00 mit den Anpassungen im HR System beginnen.  
-Ab 13:30 werden diese Anpassungen dann in das Active Directory, Exchange und Azure Active Directory übertragen.  
+Zum definierten Datum werden wir ab 13:30 mit den Anpassungen im HR System beginnen.  
+Ab 13:50 werden diese Anpassungen dann in das Active Directory, Exchange, Azure Active Directory, Zoom und Adobe übertragen.  
 
-Die Nutzenden werden sich somit ab etwa 14:00 (uns fehlen noch die Erfahrungswerte) mit dem neuen UPN an Ihren Clients, dem Mail/Webmail und allen an Microsoft Identity angebundenen Systemen wie Office 365, Teams, eForms, Adobe, etc. anmelden können.  
+Die Nutzenden werden sich somit ab etwa 14:30 mit dem neuen UPN an Ihren Clients, dem Mail/Webmail und allen an Microsoft Identity angebundenen Systemen wie Office 365, Teams, eForms, Adobe, etc. anmelden können.  
 
 Zu diesem Zeitpunkt beginnen dann auch die Dienstleistungsbetreibenden der zenralen Dienstleistungen mit den Synchronisierungen und Anpassungen.  
 
@@ -62,6 +59,4 @@ Spätestens am nächsten Morgen kann die Migration als abgeschlossen betrachtet 
 
 ## Migration von geteilten- oder Ressourcen-Mailboxen, Verteilerlisten und Forwards
 
-Die Migration unpersönlicher Mailboxen, Verteilerlisten und Forwards ist unabhängig von der Migration der Mitarbeitenden.  
-
-Bei Bedarf können wir diese Objekte bereits vor der Mitarbeitenden-Migration durchführen. Ansonsten sehen wir eine Migration eine Woche nach der Mitarbeitenden-Migration vor.
+Die Migration unpersönlicher Mailboxen, Verteilerlisten und Forwards ist unabhängig von der Migration der Mitarbeitenden, wird aber idealerweise gleichzeitig durchgeführt.

@@ -92,4 +92,4 @@ Institutsadressen sind bewilligungspflichtig
 - sekretariat.id@unibe.ch  
 
 **Notizen**  
-Adressen ohne Institutskürzel sind bewilligungspflichtig
+Adressen **ohne** Institutskürzel sind bewilligungspflichtig und werden nur in Ausnahmefällen und entsprechender Begründung genehmigt.
