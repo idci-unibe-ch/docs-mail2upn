@@ -50,7 +50,7 @@ Für die Migration sind folgende Begriffe für Sie und bei der Kommunikation mit
 | Webmail                                            	| UPN                           | Legacy UPN                  |
 | Zeiterfassung (Bridge4ERP) via "Login"               	| campus\sAMAccountName         | campus\sAMAccountName       |
 | Zeiterfassung (Bridge4ERP) via "Windows Login"       	| UPN                           | Legacy UPN                  |
-| ZMS (CMS)                                            	| sAMAccountName                | sAMAccountName              |
+| ZMS (CMS)                                            	| UPN                           | sAMAccountName              |
 | zoom                                               	| UPN                           | Legacy UPN                  |
 
 
