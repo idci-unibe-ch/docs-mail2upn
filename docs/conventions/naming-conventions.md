@@ -43,6 +43,7 @@ Keine Änderung zur IST-Situation
 **Alternativen**  
 - vorname[**kurzform**].nachname@unibe.ch  
 - vorname.[**z**]weitname.nachname@unibe.ch  
+- vorname.nachname-zweiternachname@unibe.ch  
 
 **Beispiele**  
 - petra.muster@unibe.ch  
@@ -51,6 +52,8 @@ Keine Änderung zur IST-Situation
 - petra.j.muster@unibe.ch  
 - petra.ja.muster@unibe.ch  
 - petra.jane.muster@unibe.ch  
+- petra.muster-doe@unibe.ch  
+- petra.jane.muster-doe@unibe.ch  
 
 **Notizen**  
 - Inkrementieren bei Duplikat  
