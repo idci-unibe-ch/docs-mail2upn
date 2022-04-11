@@ -1,7 +1,5 @@
 # Bestätigte Migrationsfenster
 
-- 22.03.2022 (Anmeldung bis zum 25.02.2022)
-- 12.04.2022 (Anmeldung bis zum 25.03.2022)
 - 17.05.2022 (Anmeldung bis zum 28.04.2022)
 - 07.06.2022 (Anmeldung bis zum 13.05.2022)
 - 12.07.2022 (Anmeldung bis zum 23.06.2022)
